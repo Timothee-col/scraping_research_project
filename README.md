@@ -26,7 +26,7 @@ Upon completion, the script generates an output file of_results.csv, detailing t
 ## Input File Format
 The CSV file for input should adhere to the following structure:
 links
-https://onlyfans.com/exampleProfile1
+https://onlyfans.com/exampleProfile1 ; 
 https://onlyfans.com/exampleProfile2
 ...
 
