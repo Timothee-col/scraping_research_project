@@ -33,7 +33,7 @@ https://onlyfans.com/exampleProfile2
 ## Output File Format
 The generated output CSV file contains the following columns:
 
-## URL, Likes Count, Instagram URL, Snapchat URL, TikTok URL, Twitter URL
+URL, Likes Count, Instagram URL, Snapchat URL, TikTok URL, Twitter URL
 
 
 ## License
