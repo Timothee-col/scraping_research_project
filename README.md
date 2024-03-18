@@ -1,4 +1,4 @@
-OnlyFans Profile Scraper README
+# OnlyFans Profile Scraper README
 Description
 This Python script is designed to automate the extraction of likes counts and direct social media links from OnlyFans profiles. Leveraging Selenium WebDriver for web navigation and scraping, it targets specific URLs to gather social media information. The script efficiently retrieves likes counts along with Instagram, Snapchat, TikTok, and Twitter profile links associated with each OnlyFans profile. The results are conveniently saved in a CSV file, facilitating social media analysis and comprehensive data collection for OnlyFans content creators.
 
